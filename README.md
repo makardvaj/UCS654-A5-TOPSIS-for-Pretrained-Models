@@ -1,6 +1,7 @@
 # Multi-Model Text Generation using TOPSIS
 
-**Name:** Vaibhav Srivastva          \n
+**Name:** Vaibhav Srivastva
+
 **Roll No:** 102316037
 
 Apply TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) to find the best pre-trained model for **Text Generation**.
